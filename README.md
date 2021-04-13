@@ -1,24 +1,13 @@
 # account-app
 
-## Project setup
-```
-npm install
-```
+バックエンド
+Google Apps Script (GAS)
+フロントエンド
+Vue.js / Vue Router / Vuex
+Vuetify
+axios
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+家計簿アプリをハンズオン形式で勉強。
+GAS、Vuexもほぼ初めて。
+WEB制作メインでやっているので、api触ることの機会をもっと増やさなければならない。
+一応動作はしたが、もっとカスタマイズしていきたい。
